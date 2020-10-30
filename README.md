@@ -7,3 +7,5 @@ https://www.dwitter.net/d/4509
 
 With help from:
 https://github.com/alexjlockwood/bees-and-bombs-compose
+
+<img src="dweet.gif" width="360" />
